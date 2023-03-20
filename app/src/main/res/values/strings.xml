@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidBoundServiceDemo</string>
+    <string name="get_random_number">Get Random Number</string>
+</resources>
